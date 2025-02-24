@@ -1,3 +1,4 @@
 question-service/src/main/resources/application.properties
 quiz-service/src/main/resources/application.properties
 service-registry/src/main/resources/application.properties
+api-gateway/src/main/resources/application.properties
